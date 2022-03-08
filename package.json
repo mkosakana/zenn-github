@@ -1,0 +1,23 @@
+{
+  "name": "zenn-sync",
+  "version": "1.0.0",
+  "description": "📘 Zenn と Github 連携用リポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkosakana/zenn-sync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkosakana/zenn-sync/issues"
+  },
+  "homepage": "https://github.com/mkosakana/zenn-sync#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.107"
+  }
+}
