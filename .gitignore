@@ -20,3 +20,4 @@ bin-release/
 .idea/
 
 node_modules/
+images/.DS_Store
