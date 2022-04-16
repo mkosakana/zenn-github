@@ -9,3 +9,7 @@ book: ## 本ファイル作成
 .PHONY: view
 view: ## プレビュー用のブラウザ開始
 	npx zenn preview
+
+.PHONY: update
+update: ## zenn-cl の更新
+	npm install zenn-cli@latest
