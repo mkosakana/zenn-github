@@ -1,3 +1,3 @@
-# zenn-sync
+# zenn-github
 
-📘 [Zenn](https://zenn.dev/mkosakana) と [Github](https://github.com/mksoakana) 連携用リポジトリ
+A repository for integrating [Zenn](https://zenn.dev/mkosakana) and [Github](https://github.com/mksoakana)
